@@ -1,0 +1,36 @@
+
+
+.container-wraper{
+  max-width: 800px;
+  margin:auto;
+  font-family: sans-serif;
+}
+
+
+
+table, th ,td{
+  width: 100%;
+  table-layout: fixed;
+  text-align: center;
+  font-size: 17px;
+  border-collapse: collapse;
+  border: 1px solid #ffffff;
+}
+tr, th, td{
+  padding: 15px;
+}
+th{
+  background-color:#037ba3;
+  color: #ffffff;
+}
+td{
+  background-color: #f2efef;
+  color: #000000;
+}
+td:hover{
+  background-color:#ffffff; 
+  color:  #264aff;
+}
+.nember{
+  color: #abacad;
+}
